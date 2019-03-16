@@ -1682,7 +1682,7 @@ $extra{'Main-Bold'} = {
   ],
 
   not => [
-    'Select(0u20E0)',
+    'Select(0uE020)',
     'SetRBearing(894,1)',
   ],
 
